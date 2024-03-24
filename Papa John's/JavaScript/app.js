@@ -1,0 +1,1 @@
+// Gələcək zamanlarda JS istifadə etdiyim proyektləridə GitHub hesabima yükləyəcəm
